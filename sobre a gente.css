@@ -1,0 +1,59 @@
+body{
+    margin: 0%;
+    background-image: url("img/papel_de_parede_adesivo_patas_de_cachorro_caes_gatos_pet_animais_ssan_017_1097_1_20200506081632.jpg");
+    
+    background-size: cover;
+   
+
+}
+
+img{  
+border-radius:5%;
+width: 38%;
+    
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+   
+    
+}
+
+p{
+    font-size: 110%;
+    margin 50px ;
+    font-weight: 400;
+    text-align: left;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+border-radius: 50px;
+background-color: rgb(0, 149, 255);
+padding: 30px;
+color: rgb(0, 0, 0);
+}
+
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-top: 25px;
+}
+
+ input{
+    width: 100%;
+    padding: 8px 0;
+    margin: 8px 0;
+}
+
+ input[type=text] {
+    height: 100px;
+}
+
+button {
+    color: black;
+    background-color: rgb(2, 141, 255);
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+
